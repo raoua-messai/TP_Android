@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyListe</string>
+
+    <string-array name="andVersionName">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Night</item>
+        <item>Morning</item>
+        <item>watch</item>
+    </string-array>
+
+    <string-array name="descr">
+        <item>My strawberry Cupcake </item>
+        <item>my Donut looks delicious</item>
+        <item>My birthday cake</item>
+        <item>Good night !  have sweet dreams</item>
+        <item>Good morning ! Have a nice day !!!</item>
+        <item>I bought a new watch, Do you like it ? </item>
+    </string-array>
+
+</resources>
